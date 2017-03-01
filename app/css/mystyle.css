@@ -1,0 +1,18 @@
+
+#map {
+	height: 500px;
+	width: 100%;
+	
+	
+}
+.info-window {
+	height: 300px;
+}
+.google-map-container {
+	margin-top: 50px;
+}
+.google-search-fild {
+	margin-top: 10px;
+	width: 50%;
+	overflow: show;
+}
